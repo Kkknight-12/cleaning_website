@@ -42,7 +42,7 @@ export const HomePage = () => {
         image_alt={homePageContent.section_two.image_alt}
       />
 
-      <Box className="bg-blue-500 rounded-xl p-7 text-center">
+      <Box className="bg-blue-500 rounded-xl p-7 text-center w-full">
         <Stack spacing={5}>
           <ImageCard
             styles="mb-3 text-center text-white"
