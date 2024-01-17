@@ -1,12 +1,12 @@
 import { Stack } from '@mui/material'
 import FacebookIcon from '@mui/icons-material/Facebook'
 import InstagramIcon from '@mui/icons-material/Instagram'
-import XIcon from '@mui/icons-material/X'
+import WhatsAppIcon from '@mui/icons-material/WhatsApp'
 
 export const Footer = () => {
   return (
-    <>
-      <Stack className="p-5 gap-10  md:!flex-row md:items-center mt-10">
+    <div className="bg-gray-200 -mx-2">
+      <Stack className="p-5 gap-10 md:!flex-row md:items-center mt-10">
         <a className="text-base tracking-normal text-neutral-500">
           Terms and condition
         </a>
@@ -19,12 +19,12 @@ export const Footer = () => {
         direction="row"
         spacing={2}
         justifyContent="center"
-        className="mb-10"
+        className="pb-10"
       >
         <FacebookIcon className="!fill-blue-700" />
         <InstagramIcon />
-        <XIcon />
+        <WhatsAppIcon />
       </Stack>
-    </>
+    </div>
   )
 }

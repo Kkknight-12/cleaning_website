@@ -102,8 +102,8 @@ const ContactForm = () => {
   }
 
   return (
-    <div className="mt-20 flex justify-center">
-      <div className="flex-col flex gap-10 overflow-hidden bg-blue-500 p-4 w-[500px] rounded-xl">
+    <div className="mt-20 flex justify-center min-h-[64vh] sm:min-h-[75vh]">
+      <div className="flex-col flex gap-10 overflow-hidden bg-blue-500 p-4 w-[500px] rounded-xl !h-fit">
         <p className="text-xl text-center text-white">Get in touch</p>
 
         <form

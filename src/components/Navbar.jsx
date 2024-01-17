@@ -29,6 +29,7 @@ function NavbarComponent() {
           <Stack
             direction="row"
             spacing={4}
+            alignItems="center"
             justifyContent="space-between"
             className="w-full"
           >

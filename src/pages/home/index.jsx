@@ -42,33 +42,7 @@ export const HomePage = () => {
         image_alt={homePageContent.section_two.image_alt}
       />
 
-      <Box className="rounded-xl p-7">
-        <Stack spacing={5} className="flex-col md:!flex-row">
-          <div className="flex justify-center max-w-[200px] md:max-w-full !mx-auto flex-1">
-            <ImageContainer
-              src={homePageContent.section_three.image_path}
-              alt={homePageContent.section_three.image_alt}
-              styles="object-contain overflow-hidden max-h-[400px]"
-            />
-          </div>
-          <Stack spacing={2} className="flex-1">
-            <p className="text-2xl tracking-wider">
-              {homePageContent.section_three.heading}
-            </p>
-            <p className="text-base mt-3 tracking-wider">
-              {homePageContent.section_three.paragraph}
-            </p>
-            <ButtonComponent
-              button_text={homePageContent.section_three.button_text}
-              variant="outlined"
-              styles="w-fit"
-              onClick={() => navigate('/about/wash')}
-            />
-          </Stack>
-        </Stack>
-      </Box>
-
-      <Box className="bg-red-500 rounded-xl p-7 text-center">
+      <Box className="bg-blue-500 rounded-xl p-7 text-center">
         <Stack spacing={5}>
           <ImageCard
             styles="mb-3 text-center text-white"
