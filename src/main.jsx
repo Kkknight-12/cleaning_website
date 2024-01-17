@@ -9,6 +9,7 @@ import { Clean } from './pages/about/Clean.jsx'
 import { Wash } from './pages/about/Wash.jsx'
 import { Hygienic } from './pages/about/Hygienic.jsx'
 import { ProductsPage } from './pages/products/index.jsx'
+import ContactForm from './pages/contact/index.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -21,6 +22,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
           <Route path="/about/wash" element={<Wash />} />
           <Route path="/about/hygienic" element={<Hygienic />} />
           <Route path="/products" element={<ProductsPage />} />
+          <Route path="/contact" element={<ContactForm />} />
         </Routes>
       </Layout>
     </Router>
