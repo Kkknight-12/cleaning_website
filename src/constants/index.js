@@ -2,103 +2,49 @@ export const homePageContent = {
   section_one: {
     image_path: '/home_1.jpg',
     image_alt: 'image_one',
-    heading: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
+    heading: 'MACLAIN WIDE RANGE OF CLEANING PRODUCTS',
     paragraph:
-      ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
-      '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident quisquam sapiente sequi, sunt vel veniam, voluptates\n' +
-      '          voluptatum. Amet ea illum libero minima neque? Adipisci aliquid\n' +
-      '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
-      '          quidem quos reprehenderit similique, ut veniam voluptatum! Architecto\n' +
-      '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
-      '          excepturi explicabo fugit id in inventore iste, labore laborum',
+      'Maclain brand under mable india is a company engaged in the manufacturing of permium quality wide range of cleaning products . Maclain was established to produce comprehensive range of products including detergent liquids , Dishwash liquid, floor cleaner , toiler cleaner , phenyl , handwashing liquid and many more products',
     button_text: 'Read More',
   },
   section_two: {
-    heading: 'Lorem ipsum dolor sit eum.',
-    paragraph:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum,' +
-      ' velit! illum libero minima neque? Adipisci aliquid dignissimos distinctio, ea error expedita incidunt iste magnam maxime, quidem quos reprehenderit similique, ut veniam voluptatum! Architecto at',
+    heading: 'Maclain plus detergent liquid',
+    paragraph: `Supreme quality detergent liquid with all new multi enzymatic activity which helps to remove more then 10 types of tough stains. Suitable for top load and front load washing machines.`,
     image_path: '/home_2.jpg',
     image_alt: 'image_two',
   },
   section_three: {
-    heading: 'Lorem ipsum dolor sit eum.',
+    heading: 'Maclain Dishwash liquid',
     paragraph:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, sequi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, maxime?',
+      'Maclain Dishwash liquid with silver nano particles which removes tough burnt stains and stuborn food ordor giving you shiny and superclean dishes',
     image_path: '/home_2.jpg',
     image_alt: 'image_two',
     button_text: 'Read More',
   },
-  section_four: {
-    heading: 'Lorem ipsum dolor sit eum.',
-    paragraph:
-      'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum,' +
-      ' velit!..',
-    image_path: '/home_2.jpg',
-    image_alt: 'image_two',
-    button_text: 'Read More',
-  },
-}
+};
 
 export const aboutPageContent = {
   section_one: {
     heading: 'All About Us',
     paragraph:
-      ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto\n' +
-      '            earum explicabo facilis ipsum nihil non omnis, qui unde! Adipisci\n' +
-      '            alias blanditiis.',
+      'MACLAIN brand under Mable india industries, a leading FMCG manufacturing company was established in 2017 with aim to create a brand for perfect cleaning products which are beyond dirt and dust',
   },
   section_two: {
     image_path:
       'https://plus.unsplash.com/premium_photo-1661663544037-c6a89d426c26?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     image_alt: 'image_one',
     heading_one: '',
-    paragraph_one:
-      ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
-      '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident quisquam sapiente sequi, sunt vel veniam, voluptates\n' +
-      '          voluptatum. Amet ea illum libero minima neque? Adipisci aliquid\n' +
-      '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
-      '          quidem quos reprehenderit similique, ut veniam voluptatum! Architecto\n' +
-      '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
-      '          excepturi explicabo fugit id in inventore iste, labore laborum',
-    paragraph_two:
-      ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
-      '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident quisquam sapiente sequi, sunt vel veniam, voluptates\n' +
-      '          voluptatum. Amet ea illum libero minima neque? Adipisci aliquid\n' +
-      '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
-      '          quidem quos',
-    paragraph_three:
-      ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
-      '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident quisquam sapiente sequi, sunt vel veniam, voluptates\n' +
-      '          voluptatum. Amet ea illum libero minima neque? Adipisci aliquid\n' +
-      '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
-      '          quidem quos accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident quisquam sapiente sequi, sunt vel veniam, voluptates\n' +
-      '          voluptatum. Am',
-    paragraph_four:
-      ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
-      '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident quisquam sapiente sequi, sunt vel veniam, voluptates\n' +
-      '          voluptatum. Amet ea illum libero minima neque? Adipisci aliquid\n' +
-      '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
-      '          quidem quos accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident',
+    paragraph_one: `Maclain is leading company in all kind of home care products manufacturing and supplying for every day use including detergent liquids , dishwash liquids , toilet cleaner , floor cleaner , handwashing liquid, phenyl and many more products rang. 
+
+    As company we produce export quality products which includes formulation , packaging and distribution with latest technologies and process available. 
+    
+    We ensure quality, safety and effectiveness to meet out customer demands for a clean and well maintained home environment .`,
   },
   section_three: {
-    heading_one: 'Lorem ipsum dolor',
-    paragraph_one:
-      ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
-      '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident quisquam sapiente sequi, sunt vel veniam, voluptates\n' +
-      '          voluptatum. Amet ea illum libero minima neque? Adipisci aliquid\n' +
-      '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
-      '          quidem quos reprehenderit similique, ut veniam voluptatum! Architecto\n' +
-      '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
-      '          excepturi explicabo fugit id in inventore iste, labore laborum',
+    heading_one: 'Our vision',
+    paragraph_one: `Our vision guide us in our attitude towards our customers 
+    We advocate practice of uncompromising standards for hygiene,ethics, accountability and transparency. 
+    Our products are innovative, hygienic and safe for everyday use.`,
     paragraph_two:
       ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
       '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
@@ -109,7 +55,7 @@ export const aboutPageContent = {
       '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
       '          excepturi explicabo fugit id in inventore iste, labore laborum',
   },
-}
+};
 
 export const cleanPageContent = {
   image_one_path:
@@ -156,15 +102,13 @@ export const cleanPageContent = {
     '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
     '          quidem quos accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
     '          nulla provident',
-}
+};
 
 export const washPageContent = {
-  image_one_path:
-    'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+  image_one_path: './product1.jpeg',
   image_one_alt: 'image_one',
   heading_one: 'lorem ipsum dolor sit amet',
-  paragraph_one:
-    'lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit Amet ea illum libero minima neque? Adipisci aliquid',
+  paragraph_one: ``,
   paragraph_two:
     ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
     '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
@@ -175,7 +119,7 @@ export const washPageContent = {
     '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
     '          excepturi explicabo fugit id in inventore iste, labore' +
     ' laborum dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n',
-}
+};
 
 export const hygienicPageContent = {
   image_one_path:
@@ -185,8 +129,7 @@ export const hygienicPageContent = {
     'https://images.unsplash.com/photo-1528740561666-dc2479dc08ab?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   image_two_alt: 'image_two',
   heading_one: 'lorem ipsum dolor sit amet',
-  paragraph_one:
-    'lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit Amet ea illum libero minima neque? Adipisci aliquid',
+  paragraph_one: ``,
   paragraph_two:
     ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
     '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
@@ -197,80 +140,150 @@ export const hygienicPageContent = {
     '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
     '          excepturi explicabo fugit id in inventore iste, labore' +
     ' laborum dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n',
-}
+};
 
 export const productsPageContent = [
   {
     id: 1,
-    image_path:
-      'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    image_alt: 'image_one',
-    product_name: 'lorem ipsum dolor sit amet',
-    product_price: '40',
-    product_description:
-      'lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit Amet ea illum libero minima neque? Adipisci aliquid',
-    button_text: 'Buy',
-  },
-  {
-    id: 2,
-    image_path:
-      'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    image_alt: 'image_one',
-    product_name: 'lorem ipsum dolor sit amet',
-    product_price: '50',
-    product_description:
-      'lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit Amet ea illum libero minima neque? Adipisci aliquid',
-    button_text: 'Buy',
-  },
-  {
-    id: 3,
-    image_path:
-      'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    image_alt: 'image_one',
-    product_name: 'lorem ipsum dolor sit amet',
-    product_price: '30',
-    product_description:
-      'lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit Amet ea illum libero minima neque? Adipisci aliquid',
-    button_text: 'Buy',
+    image_path: './product1.jpeg',
+    image_alt: 'Maclain plus detergent liquid.',
+    product_name: 'Maclain plus detergent liquid.',
+    product_description: `Maclain plus detergent liquid 
+      All new supreme quality detergent liquid with multi enzyme action which helps to remove more then 10 types of stains. This gives you 3 times more cleaning power which retains softness and colour of fabric . 
+      Suitable for front load and topload machine .`,
   },
   {
     id: 4,
-    image_path:
-      'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    image_alt: 'image_one',
-    product_name: 'lorem ipsum dolor sit amet',
+    image_path: './product3.jpeg',
+    image_alt: 'Maclain detergent liquid',
+    product_name: 'Maclain detergent liquid',
     product_price: '40',
-    product_description:
-      'lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit Amet ea illum libero minima neque? Adipisci aliquid',
+    product_description: `Superior quality detergent liquid for cleaning clothes with double power leaving behind bright textile and pleasant fragrance . 
+      Excellent for all types of washing machine and safe for handwashing of clothes .
+      Available in 1 lt and 5 lt packing`,
     button_text: 'Buy',
   },
   {
     id: 5,
-    image_path:
-      'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    image_alt: 'image_one',
-    product_name: 'lorem ipsum dolor sit amet',
+    image_path: './product4.jpeg',
+    image_alt: 'Maclain Dishwash liquid',
+    product_name: 'Maclain Dishwash liquid',
     product_price: '100',
-    product_description:
-      'lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit Amet ea illum libero minima neque? Adipisci aliquid',
+    product_description: `Maclain Dishwash liquid with all new silver nanoparticles which removes tough food stains and stuborn food odor from utensil leaving them clean and odorless`,
     button_text: 'Buy',
   },
   {
     id: 6,
-    image_path:
-      'https://images.unsplash.com/photo-1584813470613-5b1c1cad3d69?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    image_alt: 'image_one',
-    product_name: 'lorem ipsum dolor sit amet',
+    image_path: './product5.jpeg',
+    image_alt: 'Maclain extra thick dishwash liquid ',
+    product_name: 'Maclain extra thick dishwash liquid ',
     product_price: '80',
-    product_description:
-      'lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit Amet ea illum libero minima neque? Adipisci aliquid',
+    product_description: `Macalin extrathick dishwash liquid with super grease cutting  power and burnt stains specialist with activated surfactant therapy . 
+      Just one spoon of liquid is enough for one sink full of dishes .`,
     button_text: 'Buy',
   },
-]
+  {
+    id: 6,
+    image_path: './product6.jpeg',
+    image_alt: 'Maclain Dishwash liquid jumbo',
+    product_name: 'Maclain Dishwash liquid jumbo',
+    product_price: '80',
+    product_description: `Maclain Dishwash liquid jumbo gives u ultra cleaning of dishes with activated lime property leaving behind pleasent fragrance of lemon .`,
+    button_text: 'Buy',
+  },
+  {
+    id: 7,
+    image_path: './product7.jpeg',
+    image_alt: 'Maclain toilet cleaner',
+    product_name: 'Maclain toilet cleaner',
+    product_price: '80',
+    product_description: `Maclain toilet cleaner gives you super clean toilet wirh 10X power to remove tough stains from toilet tub with unique design for  easy rim cleaning .
+     Which kills 99.99 perfect of germs giving fresh and hygiene toilet .`,
+    button_text: 'Buy',
+  },
+  {
+    id: 8,
+    image_path: './product8.jpeg',
+    image_alt: 'Maclain extra power toilet cleaner (5lt)',
+    product_name: 'Maclain extra power toilet cleaner (5lt)',
+    product_price: '80',
+    product_description: `Maclain extra power toilet cleaner (5lt) is export quality extra thick toilet cleaner for better cleaning with triple action of removing stuborn scales , giving extrashine and effectively removing gems .`,
+    button_text: 'Buy',
+  },
+  {
+    id: 9,
+    image_path: './product9.jpeg',
+    image_alt: 'Maclain thick acid',
+    product_name: 'Maclain thick acid',
+    product_price: '80',
+    product_description: `Maclain thick acid is all new improvised product which don’t have any fumes and can be safely use with bare hands .
+      It unique concentrated acid formulation will removes tough lime scales and yellow stains form any surface including tiles , taps and HD plastic material in one go without any toxic gas products and irritant smell of acid .`,
+    button_text: 'Buy',
+  },
+  {
+    id: 11,
+    image_path: './product11.jpeg',
+    image_alt: 'Maclain floor cleaner',
+    product_name: 'Maclain floor cleaner',
+    product_price: '80',
+    product_description: `Maclain floor cleaner which cleans and sanitzes floor and other surfaces by simply mixing with water .
+      It leaves pleasant long lasting florance fragrance after every use .
+      Also available in 1lt and 5lt packing`,
+    button_text: 'Buy',
+  },
+  {
+    id: 12,
+    image_path: './product12.jpeg',
+    image_alt: 'Maclain extrastrong deodorizer phenyle',
+    product_name: 'Maclain extrastrong deodorizer phenyle',
+    product_price: '80',
+    product_description: `Maclain extrastrong deodorizer phenyle (Black) is a powerfull germicide with strong aroma which cleans a surface in a healthy way. 
+    Easily dissolving in water and leaves no stains residue .`,
+    button_text: 'Buy',
+  },
+  {
+    id: 13,
+    image_path: './product13.jpeg',
+    image_alt: 'Maclain premium deodorizer phenyl',
+    product_name: 'Maclain premium deodorizer phenyl',
+    product_price: '80',
+    product_description: `Maclain premium deodorizer phenyl(black) is premium quality black phenyl with all new advance formula which keeps dirt away from surface leaving behind shiny and clean surface with pleasant aroma .`,
+    button_text: 'Buy',
+  },
+  {
+    id: 14,
+    image_path: './product14.jpeg',
+    image_alt: 'Maclain handwash liquid',
+    product_name: 'Maclain handwash liquid',
+    product_price: '80',
+    product_description: `Maclain handwashing liquid is triple action handwash formula with cleansing, moisturising and aromatic action which helps to protect skin from environmental pollution with rose fragrance .`,
+    button_text: 'Buy',
+  },
+  {
+    id: 15,
+    image_path: './product15.jpeg',
+    image_alt: 'Maclain dishwas round bar',
+    product_name: 'Maclain dishwas round bar',
+    product_price: '80',
+    product_description: `Maclain dishwash round bar with active lemon which helps to remove oils and food particles and other ingredients which helps in foaming degreasing and providing pleasant smell . 
+    Free scrubber worth rs 10 with every unit`,
+    button_text: 'Buy',
+  },
+  {
+    id: 16,
+    image_path: './product16.jpeg',
+    image_alt: 'Maclain multiuse descaler',
+    product_name: 'Maclain multiuse descaler',
+    product_price: '80',
+    product_description: `Maclain multiuse descaler is powder based formulation for easy cleaning of washing machine, dishwasher ,coffee machine ,shower heads and faucets ,steam irons etc 
+    With 4in 1 action it dissolves dirt, grime and detergent residue and  deodorized as well .`,
+    button_text: 'Buy',
+  },
+];
 
 export const navigationLink = [
   { id: 'home', title: 'Home', href: '/' },
   { id: 'about', title: 'About', href: '/about' },
   { id: 'products', title: 'Products', href: '/products' },
   { id: 'contact', title: 'Contact Us', href: '/contact' },
-]
+];
