@@ -1,10 +1,10 @@
 import { Box, Stack } from '@mui/material';
 import { ImageContainer } from '../../components/ImageContainer.jsx';
 import { aboutPageContent } from '../../constants/index.js';
-import { SewingIcon } from '../../icons/sewingIcon.jsx';
-import { ProcessIcon } from '../../icons/processIcon.jsx';
-import { NaturalProcessIcon } from '../../icons/naturalProcessIcon.jsx';
-import { Packaging } from '../../icons/Packaging.jsx';
+import { SewingIcon } from '../../../public/sewingIcon.jsx';
+import { ProcessIcon } from '../../../public/processIcon.jsx';
+import { NaturalProcessIcon } from '../../../public/naturalProcessIcon.jsx';
+import { Packaging } from '../../../public/processIcon.jsx';
 
 export const AboutPage = () => {
   return (
