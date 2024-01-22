@@ -21,7 +21,7 @@ export const ImageCard = ({
           <ImageContainer
             src={image_path}
             alt={image_alt}
-            styles="object-contain rounded-2xl overflow-hidden max-h-[400px]"
+            styles="object-contain rounded-2xl overflow-hidden max-h-[200px]"
           />
         </div>
       </div>

@@ -16,6 +16,8 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
-
+    "globals": {
+      "process": "readonly"
+    }
   },
 }

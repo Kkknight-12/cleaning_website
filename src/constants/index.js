@@ -10,18 +10,19 @@ export const homePageContent = {
   section_two: {
     heading: 'Maclain plus detergent liquid',
     paragraph: `Supreme quality detergent liquid with all new multi enzymatic activity which helps to remove more then 10 types of tough stains. Suitable for top load and front load washing machines.`,
-    image_path: '/home_2.jpg',
+    image_path: './product1.jpeg',
     image_alt: 'image_two',
+    button_text: 'See All Products',
   },
   section_three: {
     heading: 'Maclain Dishwash liquid',
     paragraph:
       'Maclain Dishwash liquid with silver nano particles which removes tough burnt stains and stuborn food ordor giving you shiny and superclean dishes',
-    image_path: '/home_2.jpg',
+    image_path: '/product4.jpeg',
     image_alt: 'image_two',
-    button_text: 'Read More',
+    button_text: 'See All Products',
   },
-};
+}
 
 export const aboutPageContent = {
   section_one: {
@@ -45,17 +46,8 @@ export const aboutPageContent = {
     paragraph_one: `Our vision guide us in our attitude towards our customers 
     We advocate practice of uncompromising standards for hygiene,ethics, accountability and transparency. 
     Our products are innovative, hygienic and safe for everyday use.`,
-    paragraph_two:
-      ' Lorem ipsum dolor sit amet, consectetur adipisicing elit. A\n' +
-      '          accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
-      '          nulla provident quisquam sapiente sequi, sunt vel veniam, voluptates\n' +
-      '          voluptatum. Amet ea illum libero minima neque? Adipisci aliquid\n' +
-      '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
-      '          quidem quos reprehenderit similique, ut veniam voluptatum! Architecto\n' +
-      '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
-      '          excepturi explicabo fugit id in inventore iste, labore laborum',
   },
-};
+}
 
 export const cleanPageContent = {
   image_one_path:
@@ -102,7 +94,7 @@ export const cleanPageContent = {
     '          dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n' +
     '          quidem quos accusantium deleniti eveniet fugiat harum illum itaque molestiae neque\n' +
     '          nulla provident',
-};
+}
 
 export const washPageContent = {
   image_one_path: './product1.jpeg',
@@ -119,7 +111,7 @@ export const washPageContent = {
     '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
     '          excepturi explicabo fugit id in inventore iste, labore' +
     ' laborum dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n',
-};
+}
 
 export const hygienicPageContent = {
   image_one_path:
@@ -140,7 +132,7 @@ export const hygienicPageContent = {
     '          at autem consequatur consequuntur cum dicta dolore doloribus enim et\n' +
     '          excepturi explicabo fugit id in inventore iste, labore' +
     ' laborum dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n dignissimos distinctio, ea error expedita incidunt iste magnam maxime,\n',
-};
+}
 
 export const productsPageContent = [
   {
@@ -279,11 +271,11 @@ export const productsPageContent = [
     With 4in 1 action it dissolves dirt, grime and detergent residue and  deodorized as well .`,
     button_text: 'Buy',
   },
-];
+]
 
 export const navigationLink = [
   { id: 'home', title: 'Home', href: '/' },
   { id: 'about', title: 'About', href: '/about' },
   { id: 'products', title: 'Products', href: '/products' },
   { id: 'contact', title: 'Contact Us', href: '/contact' },
-];
+]
