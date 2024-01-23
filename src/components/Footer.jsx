@@ -2,6 +2,7 @@ import { Link, Stack, Tooltip } from '@mui/material'
 import FacebookIcon from '@mui/icons-material/Facebook'
 import InstagramIcon from '@mui/icons-material/Instagram'
 import WhatsAppIcon from '@mui/icons-material/WhatsApp'
+import Hidden from '@mui/material/Hidden'
 
 export const Footer = () => {
   return (
@@ -33,9 +34,16 @@ export const Footer = () => {
         >
           <InstagramIcon className="!fill-inherit" />
         </Link>
-        <Tooltip title="+91 98259 27366">
-          <WhatsAppIcon />
-        </Tooltip>
+        <Hidden mdDown>
+          <Tooltip title="+91 98259 27366">
+            <WhatsAppIcon />
+          </Tooltip>
+        </Hidden>
+        <Hidden mdUp>
+          <p className="text-base tracking-normal text-neutral-500">
+            +91 98259 27366
+          </p>
+        </Hidden>
       </Stack>
     </div>
   )
