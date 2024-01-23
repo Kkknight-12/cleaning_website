@@ -1,4 +1,4 @@
-import { Stack } from '@mui/material'
+import { Link, Stack, Tooltip } from '@mui/material'
 import FacebookIcon from '@mui/icons-material/Facebook'
 import InstagramIcon from '@mui/icons-material/Instagram'
 import WhatsAppIcon from '@mui/icons-material/WhatsApp'
@@ -21,9 +21,21 @@ export const Footer = () => {
         justifyContent="center"
         className="pb-10"
       >
-        <FacebookIcon className="!fill-blue-700" />
-        <InstagramIcon />
-        <WhatsAppIcon />
+        <Link
+          href="https://www.facebook.com/Maclain.in?mibextid=hu50Ix"
+          target="_blank"
+        >
+          <FacebookIcon className="!fill-blue-700" />
+        </Link>
+        <Link
+          href="https://www.instagram.com/maclain583?igsh=NWN0MjRyMmYzNzM4"
+          target="_blank"
+        >
+          <InstagramIcon className="!fill-inherit" />
+        </Link>
+        <Tooltip title="+91 98259 27366">
+          <WhatsAppIcon />
+        </Tooltip>
       </Stack>
     </div>
   )
