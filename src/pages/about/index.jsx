@@ -9,7 +9,11 @@ import { Packaging } from '../../icons/Packaging.jsx'
 export const AboutPage = () => {
   return (
     <>
-      <Stack spacing={4} sx={{ marginX: -3 }} className="text-white">
+      <Stack
+        spacing={4}
+        sx={{ marginRight: '-16px', marginLeft: '-18px' }}
+        className="text-white"
+      >
         <Box className="!pt-10 md:!pt-40 pb-20 px-10 bg-blue-400 rounded-b-4xl">
           <p className="text-6xl font-bold font-roboto">
             {aboutPageContent.section_one.heading}
