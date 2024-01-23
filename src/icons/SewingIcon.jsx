@@ -1,6 +1,3 @@
-// @flow
-import * as React from 'react'
-
 export const SewingIcon = ({ styles }) => {
   return (
     <svg
@@ -11,15 +8,15 @@ export const SewingIcon = ({ styles }) => {
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 297 297"
       xmlns:xlink="http://www.w3.org/1999/xlink"
-      enable-background="new 0 0 297 297"
+      enableBackground="new 0 0 297 297"
       stroke="#2b6ae9"
       className={styles}
     >
-      <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+      <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
       <g
         id="SVGRepo_tracerCarrier"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       ></g>
       <g id="SVGRepo_iconCarrier">
         {' '}
