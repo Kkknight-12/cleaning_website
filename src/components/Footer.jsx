@@ -5,7 +5,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp'
 
 export const Footer = () => {
   return (
-    <div className="bg-gray-200 -mx-2">
+    <div className="bg-gray-200">
       <Stack className="p-5 gap-10 md:!flex-row md:items-center mt-10">
         <a className="text-base tracking-normal text-neutral-500">
           Terms and condition
