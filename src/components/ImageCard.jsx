@@ -17,11 +17,11 @@ export const ImageCard = ({
           <p className="text-2xl">{heading}</p>
           <p className="text-base">{paragraph}</p>
         </Stack>
-        <div className="max-w-[200px] md:max-w-full !mx-auto">
+        <div className="max-w-[300px] md:max-w-full !mx-auto">
           <ImageContainer
             src={image_path}
             alt={image_alt}
-            styles="object-contain rounded-2xl overflow-hidden max-h-[200px]"
+            styles="object-contain rounded-2xl overflow-hidden max-h-[300px]"
           />
         </div>
       </div>
