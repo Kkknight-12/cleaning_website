@@ -16,10 +16,10 @@ export const HomePage = () => {
     >
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Box className="order-2 md:order-1">
-          <p className="text-2xl tracking-wider">
+          <p className="text-4xl tracking-wider">
             {homePageContent.section_one.heading}
           </p>
-          <p className="text-base mt-3 tracking-wider">
+          <p className="text-lg mt-3 tracking-wider">
             {homePageContent.section_one.paragraph}
           </p>
 

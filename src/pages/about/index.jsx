@@ -32,7 +32,7 @@ export const AboutPage = () => {
 
         <Stack direction="column" className="gap-4 items-center text-center">
           <p className="text-6xl font-bold text-blue-400">Our Some Quality</p>
-          <p className="text-base mb-10">
+          <p className="text-lg mb-10">
             The main aim of our company is satisfying our customers by providing
             quality and safe products
           </p>
@@ -41,19 +41,19 @@ export const AboutPage = () => {
             <div className="justify-center flex">
               <SewingIcon styles="h-20 w-20" />
             </div>{' '}
-            <p className="text-base">Product quality check process</p>
+            <p className="text-lg">Product quality check process</p>
             <div className="justify-center flex">
               <ProcessIcon styles="h-20 w-20" />
             </div>
-            <p className="text-base">Complete Natural Ingredients</p>
+            <p className="text-lg">Complete Natural Ingredients</p>
             <div className="justify-center flex">
               <NaturalProcessIcon styles="h-24 w-24" />
             </div>
-            <p className="text-base">Safe and Hygienic Packaging</p>
+            <p className="text-lg">Safe and Hygienic Packaging</p>
             <div className="justify-center flex">
               <Packaging styles="h-20 w-20" />
             </div>
-            <p className="text-base">100% Customer Satisfaction</p>
+            <p className="text-lg">100% Customer Satisfaction</p>
           </Stack>
         </Stack>
 

@@ -15,7 +15,7 @@ export const ImageCard = ({
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Stack spacing={2}>
           <p className="text-2xl">{heading}</p>
-          <p className="text-base">{paragraph}</p>
+          <p className="text-lg">{paragraph}</p>
         </Stack>
         <div className="max-w-[300px] md:max-w-full !mx-auto">
           <ImageContainer
