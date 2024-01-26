@@ -11,7 +11,7 @@ export const HomePage = () => {
   return (
     <Stack
       spacing={4}
-      className="p-4 min-h-[727px] md:min-h-[1010px] lg:min-h-[770px] md:h-[calc(100vh-223px)]"
+      className="p-4 lg:min-h-[869px]  lg:h-[calc(100vh-325px)]"
       alignItems="center"
     >
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
