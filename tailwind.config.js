@@ -14,6 +14,7 @@ export default {
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
+      cursive: 'cursive',
     },
     extend: {
       spacing: {
@@ -27,4 +28,4 @@ export default {
   },
   plugins: [],
   corePlugins: {},
-}
+};

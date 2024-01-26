@@ -1,6 +1,6 @@
-import { Button } from '@mui/material'
-import cx from 'classnames'
-import PropTypes from 'prop-types'
+import { Button } from '@mui/material';
+import cx from 'classnames';
+import PropTypes from 'prop-types';
 
 export const ButtonComponent = ({
   type,
@@ -11,6 +11,7 @@ export const ButtonComponent = ({
 }) => {
   return (
     <Button
+      sx={{ borderRadius: '32px' }}
       type={type}
       variant={variant}
       className={cx(styles)}
@@ -18,8 +19,8 @@ export const ButtonComponent = ({
     >
       {button_text}
     </Button>
-  )
-}
+  );
+};
 
 ButtonComponent.propTypes = {
   type: PropTypes.string,
@@ -27,4 +28,4 @@ ButtonComponent.propTypes = {
   variant: PropTypes.string,
   styles: PropTypes.string,
   onClick: PropTypes.func,
-}
+};
