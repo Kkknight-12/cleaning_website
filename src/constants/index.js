@@ -192,7 +192,7 @@ export const productsPageContent = [
     image_alt: 'MACLAIN toilet cleaner',
     product_name: 'MACLAIN toilet cleaner',
     product_price: '80',
-    product_description: `MACLAIN toilet cleaner gives you super clean toilet wirh 10X power to remove tough stains from toilet tub with unique design for  easy rim cleaning .
+    product_description: `MACLAIN toilet cleaner gives you super clean toilet with 10X power to remove tough stains from toilet tub with unique design for  easy rim cleaning .
      Which kills 99.99 perfect of germs giving fresh and hygiene toilet .`,
     button_text: 'Buy',
   },
