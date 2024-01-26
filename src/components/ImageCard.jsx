@@ -15,7 +15,7 @@ export const ImageCard = ({
       <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
         <Stack spacing={2}>
           <p className='text-2xl font-semibold'>
-            <span style={{ fontFamily: 'cursive' }}>{heading}</span>
+            <span>{heading}</span>
           </p>
           <div className='max-w-[300px] md:max-w-full !mx-auto'>
             <ImageContainer
