@@ -14,16 +14,16 @@ export const ProductsPage = () => {
               key={product.id}
               className="items-center flex-wrap border border-gray-200 rounded-2xl p-5 bg-white-100 shadow-xl"
             >
-              <div className="items-center justify-center flex flex-col max-w-[320px] mt-8 md:max-w-full !mx-auto">
-                <ImageContainer
-                  src={product.image_path}
-                  alt={product.image_alt}
-                  styles="object-contain rounded-2xl overflow-hidden max-h-[400px] "
-                />
+              <div className="items-center justify-center flex flex-col max-w-[320px] md:max-w-full !mx-auto">
                 <Stack spacing={2} className="mt-5">
                   <p className="text-center text-2xl font-bold tracking-wide">
                     {product.product_name}
                   </p>
+                  <ImageContainer
+                    src={product.image_path}
+                    alt={product.image_alt}
+                    styles="object-contain rounded-2xl overflow-hidden max-h-[400px] "
+                  />
                   <p className="text-justify text-lg tracking-wide">
                     {product.product_description}
                   </p>
