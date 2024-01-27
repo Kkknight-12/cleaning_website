@@ -11,7 +11,7 @@ export const HomePage = () => {
   return (
     <Stack
       spacing={4}
-      className="p-4 md:min-h-[1250px] lg:min-h-[1105px]  lg:h-[calc(100vh-313px)]"
+      className="p-4 md:min-h-[1250px] lg:min-h-[1105px] lg:h-[calc(100vh-313px)]"
       alignItems="center"
     >
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -41,7 +41,7 @@ export const HomePage = () => {
         <ImageContainer
           src={homePageContent.section_one.image_path}
           alt={homePageContent.section_one.image_alt}
-          styles="w-auto h-full object-cover rounded-tl-xl rounded-bl-xl order-1 md:order-2"
+          styles="w-auto max-h-[300px] md:h-full md:max-h-full object-cover rounded-tl-xl rounded-bl-xl order-1 md:order-2 mx-auto"
         />
       </div>
 
