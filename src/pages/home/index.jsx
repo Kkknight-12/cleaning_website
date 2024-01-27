@@ -47,7 +47,7 @@ export const HomePage = () => {
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-2">
         <ImageCard
-          styles=" bg-blue-500 rounded-xl p-7 text-center text-white w-full md:!flex-row-reverse gap-4 tracking-wider md:text-left"
+          styles="bg-blue-500 rounded-xl p-7 text-center text-white w-full tracking-wider"
           heading={homePageContent.section_two.heading}
           paragraph={homePageContent.section_two.paragraph}
           image_path={homePageContent.section_two.image_path}
@@ -56,7 +56,7 @@ export const HomePage = () => {
 
         <Box className="bg-blue-500 rounded-xl p-7 text-center items-start w-full">
           <ImageCard
-            styles="mb-3 text-center text-white"
+            styles="mb-3 text-center text-white tracking-wider"
             heading={homePageContent.section_three.heading}
             paragraph={homePageContent.section_three.paragraph}
             image_path={homePageContent.section_three.image_path}
