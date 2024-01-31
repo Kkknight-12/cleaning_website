@@ -33,8 +33,7 @@ export const aboutPageContent = {
       'brand under Mable india industries, a leading FMCG manufacturing company was established in 2017 with aim to create a brand for perfect cleaning products which are beyond dirt and dust.',
   },
   section_two: {
-    image_path:
-      'https://plus.unsplash.com/premium_photo-1661663544037-c6a89d426c26?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image_path: 'aboutImage.jpeg',
     image_alt: 'image_one',
     heading_one: '',
     paragraph_one: `Maclain is leading company in all kind of home care products manufacturing and supplying for every day use including detergent liquids , dishwash liquids , toilet cleaner , floor cleaner , handwashing liquid, phenyl and many more products range. `,
@@ -179,7 +178,7 @@ export const productsPageContent = [
   },
   {
     id: 6,
-    image_path: './product6.jpeg',
+    image_path: './product_updated.jpeg',
     image_alt: 'MACLAIN Dishwash liquid jumbo',
     product_name: 'MACLAIN Dishwash liquid jumbo',
     product_price: '80',
