@@ -102,7 +102,7 @@ const ContactForm = () => {
   }
 
   return (
-    <div className="mt-20 flex justify-center min-h-[712px] h-[calc(100vh-512px)] md:h-[calc(100vh-393px)]">
+    <div className="my-14 flex justify-center items-center  min-h-[712px] h-[calc(100vh-552px)] md:h-[calc(100vh-428px)]">
       <div className="flex-col flex gap-10 overflow-hidden bg-blue-500 p-4 w-[500px] rounded-xl !h-fit">
         <p className="text-xl text-center text-white">Get in touch</p>
 
